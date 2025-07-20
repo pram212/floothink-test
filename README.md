@@ -7,7 +7,6 @@ Silahkan clone dan buka file index.html di browser untuk memeriksa hasil pengerj
 Mohon maaf atas segala kekurangan. 
 
 Terimakasih
-**Pramono**
 
 ----
 
